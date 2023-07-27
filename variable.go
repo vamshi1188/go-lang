@@ -3,8 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	var num string = "10"
-	v
-	fmt.Println(num)
+	name := "vamshi"
+	num := 10
+	ponts := 20.2
+	var decision bool = true
+	fmt.Println(name, num, ponts, decision)
 
 }
