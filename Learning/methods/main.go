@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Println("welcome to methods in go lang")
-	vamshi := User{"saivamshi", "saiva,m.email", true, 20}
+	vamshi := User{"saivamshi", "saivamshi.go.dev", true, 20}
 	vamshi.GetStatus()
 }
 
